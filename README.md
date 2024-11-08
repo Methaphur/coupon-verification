@@ -6,7 +6,7 @@ This project is a simple Flask web application for verifying and storing 7-digit
 
 1. Clone the repository:
     ```
-    git clone https://github.com/methaphur/coupon-verification.git
+    git clone https://github.com/Methaphur/coupon-verification.git
     cd coupon-verification
     ```
 
