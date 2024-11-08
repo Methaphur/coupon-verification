@@ -20,10 +20,13 @@ This project is a simple Flask web application for verifying and storing 7-digit
     python server.py
     ```
 
-## Usage
+## Demo Use
+![Demo](assets/demo.gif)
 
+## Usage
 1. Open your web browser and go to `http://127.0.0.1:5000/`.
 2. Enter a 7-digit coupon number in the input field and submit the form.
 3. The application will display a message indicating whether the coupon number has already been scanned or if it has been added to the system.
 4. A CSV file named `verification_data.csv` will be created in the project directory to store the scanned coupon numbers.
 5. To restart the verification process, delete the `verification_data.csv` file and refresh the page.# coupon-verification
+
